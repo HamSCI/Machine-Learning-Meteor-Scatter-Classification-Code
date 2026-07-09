@@ -189,15 +189,30 @@ For information on participating in future Meteor Scatter QSO Parties or submitt
 
 ## Acknowledgements
 
-This research would not have been possible without the guidance and support of many individuals across the amateur radio and scientific communities. The author would like to recognize and thank (in no specific order):
+This research would not have been possible without the guidance and support of many 
+individuals across the amateur radio and scientific communities. The author would like 
+to recognize and thank (in no specific order):
 
-- **Dr. Nathaniel Frissell** at the University of Scranton — for his guidance, encouragement, and support throughout this project. His dedication to bridging citizen science and radio propagation research has been a constant source of inspiration.
-- **Rob Suggs** at Central Connecticut State University and **Dr. Jay Weitzen** at the University of Massachusetts Lowell — for aid in providing technical expertise, guidance, code, and sample data.
-- **Gary Mikitin** — for technical guidance, organization of the Meteor Scatter QSO Parties, and for sharing all results.
-- **Dr. Mary Lou West** at Montclair State University and **Dr. Kuldeep Pandey** at the New Jersey Institute of Technology — for their technical expertise, support, and contributions to this work.
-- **The broader HamSCI community** — whose passion for amateur radio science and willingness to collect and share data made this research possible.
-- **All amateur radio citizen scientists** who participated in the Meteor Scatter QSO Parties and uploaded data submissions to Zenodo, making this dataset accessible for scientific study.
-- The author made use of **Claude (Anthropic)** AI for assistance with code development and data visualization during this project.
+- **Dr. Nathaniel Frissell** at the University of Scranton — for his guidance, 
+encouragement, and support throughout this project. His dedication to bridging citizen 
+science and radio propagation research has been a constant source of inspiration.
+- **Dr. Rob Suggs**, retired NASA scientist, and **Dr. Jay Weitzen** at the University 
+of Massachusetts Lowell — for aid in providing technical expertise, guidance, code, 
+and sample data.
+- **Gary Mikitin** — for technical guidance, organization of the Meteor Scatter QSO 
+Parties, and for sharing all results.
+- **Dr. Mary Lou West** at Montclair State University and **Dr. Kuldeep Pandey** at 
+the New Jersey Institute of Technology — for their technical expertise, support, and 
+contributions to this work.
+- **The broader HamSCI community** — whose passion for amateur radio science and 
+willingness to collect and share data made this research possible.
+- **All amateur radio citizen scientists** who participated in the Meteor Scatter QSO 
+Parties and uploaded data submissions to Zenodo, making this dataset accessible for 
+scientific study.
+- The author made use of **Claude (Anthropic)** AI for assistance with code development 
+and data visualization during this project.
+- We are grateful for the support from **NSF Grant AGS-2045755** and **NASA Grants 
+80NSSC23K1322 and 80NSSC25K7026**.
 
 ---
 
