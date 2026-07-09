@@ -1,6 +1,4 @@
 # Machine-Learning-Meteor-Scatter-Classification-Code
-Codes used for training, classifying and visualizing meteor scatter data
-# Machine-Learning-Meteor-Scatter-Classification-Code
 
 Automated classification of meteor scatter signals from amateur radio WAV recordings using a Random Forest machine learning classifier.
 
